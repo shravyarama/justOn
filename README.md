@@ -8,6 +8,7 @@ Custom Object: Request_And_Response__c
 
 ### Components related to Case Study 
 * Apex Class: restSumWebService, restSumWebService_Test, JSON2Apex
+* Base Url : /services/apexrest/getSum/
 * Sample request: 
 {
 "jsonData": "{\"address\":{\"colorKeys\":[\"A\",\"G\",\"Z\"],\"values\":[74,117,115,23,79,110]},\"meta\":{\"digits\":33,\"processingPattern\":\"d{5}+[a-z&$\u00a7]\"}}"
